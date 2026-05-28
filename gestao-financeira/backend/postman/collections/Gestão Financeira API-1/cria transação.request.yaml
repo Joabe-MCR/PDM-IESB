@@ -1,0 +1,18 @@
+$kind: http-request
+url: "{{baseUrl}}/transactions"
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \  \"description\": \"saude e vida\",\r
+
+    \  \"value\": 3500.50,\r
+
+    \  \"date\": \"2026-05-23\",\r
+
+    \  \"categoryId\": \"cmpexvt630008vg9wvc69cvfg\"\r
+
+    }"
+examples: .resources/cria transação.resources/examples
+order: 4501986329152060

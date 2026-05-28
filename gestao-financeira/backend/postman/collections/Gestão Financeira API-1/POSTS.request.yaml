@@ -1,0 +1,19 @@
+$kind: http-request
+url: "{{baseUrl}}/categories"
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \  \"name\": \"health\",\r
+
+    \  \"displayName\": \"Saúde\",\r
+
+    \  \"icon\": \"favorite\",\r
+
+    \  \"background\": \"#FFB6B6\",\r
+
+    \  \"isIncome\": false\r
+
+    }"
+order: 3744454836940821

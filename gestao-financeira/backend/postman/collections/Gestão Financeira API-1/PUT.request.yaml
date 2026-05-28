@@ -1,0 +1,12 @@
+$kind: http-request
+name: PUT
+url: "{{baseUrl}}/categories/cmpewpyz30000vglsvru5r2ag"
+method: PUT
+body:
+  type: json
+  content: "{\r
+
+    \  \"displayName\": \"Saúde e Bem-estar\"\r
+
+    }"
+order: 4309168600135857
