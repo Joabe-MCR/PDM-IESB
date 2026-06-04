@@ -1,0 +1,8 @@
+$kind: http-request
+name: Atualizar categoria
+url: "http://localhost:3000/categories/cmphfvpk20000vg0cnnjcpsq7"
+method: PUT
+body:
+  type: json
+  content: "{ \"displayName\": \"Saúde e Bem-estar\" }\r\n"
+order: 4503577715348795

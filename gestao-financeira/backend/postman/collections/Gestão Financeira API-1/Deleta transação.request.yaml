@@ -1,0 +1,7 @@
+$kind: http-request
+name: Deleta transação
+url: "http://localhost:3000/transactions/:cmpexwsge000avg9wjafkjgjf"
+method: DELETE
+pathVariables:
+  cmpexwsge000avg9wjafkjgjf: ""
+order: 4503577693282910

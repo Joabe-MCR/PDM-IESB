@@ -1,0 +1,8 @@
+$kind: http-request
+name: Validar erros
+url: "http://localhost:3000/transactions"
+method: POST
+body:
+  type: json
+  content: '{ "description": "" }'
+order: 4503584580620065

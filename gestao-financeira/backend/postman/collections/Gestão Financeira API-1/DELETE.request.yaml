@@ -1,0 +1,8 @@
+$kind: http-request
+name: DELETE
+url: "http://localhost:3000/categories/cmpeulf7c0000vgy8e3r2qsfd"
+method: DELETE
+body:
+  type: json
+  content: ""
+order: 4434978724844879
