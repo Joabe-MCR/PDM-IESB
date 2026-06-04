@@ -1,6 +1,6 @@
 $kind: http-request
 name: Deleta transação
-url: "{{baseUrl}}/transactions/:cmpexwsge000avg9wjafkjgjf"
+url: "http://localhost:3000/transactions/:cmpexwsge000avg9wjafkjgjf"
 method: DELETE
 pathVariables:
   cmpexwsge000avg9wjafkjgjf: ""

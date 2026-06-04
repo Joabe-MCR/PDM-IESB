@@ -1,6 +1,6 @@
 $kind: http-request
 name: DELETE
-url: "{{baseUrl}}/categories/cmpeulf7c0000vgy8e3r2qsfd"
+url: "http://localhost:3000/categories/cmpeulf7c0000vgy8e3r2qsfd"
 method: DELETE
 body:
   type: json

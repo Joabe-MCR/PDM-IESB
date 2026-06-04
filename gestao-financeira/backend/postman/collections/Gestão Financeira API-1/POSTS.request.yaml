@@ -1,5 +1,5 @@
 $kind: http-request
-url: "{{baseUrl}}/categories"
+url: "http://localhost:3000/categories"
 method: POST
 body:
   type: json

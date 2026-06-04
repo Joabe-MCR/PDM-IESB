@@ -1,6 +1,6 @@
 $kind: http-request
 name: PUT
-url: "{{baseUrl}}/categories/cmpewpyz30000vglsvru5r2ag"
+url: "http://localhost:3000/categories/cmpewpyz30000vglsvru5r2ag"
 method: PUT
 body:
   type: json

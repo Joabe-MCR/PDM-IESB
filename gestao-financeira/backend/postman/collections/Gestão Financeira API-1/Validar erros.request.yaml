@@ -1,6 +1,6 @@
 $kind: http-request
 name: Validar erros
-url: "{{baseUrl}}/transactions"
+url: "http://localhost:3000/transactions"
 method: POST
 body:
   type: json
